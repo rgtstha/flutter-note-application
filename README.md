@@ -21,7 +21,7 @@ A Flutter staggered grid view which supports multiple columns with rows of varyi
 
 
 # Screenshots
-<img src="/screenshots/1.jpg" width="450" >  <img src="/screenshots/2.jpg" width="450" >  <img src="/screenshots/3.jpg" width="450" >
+<img src="/screenshots/1.jpg" height="470" >  <img src="/screenshots/3.jpg" height="470" >  <img src="/screenshots/2.jpg" height="470" >
 
 
 
